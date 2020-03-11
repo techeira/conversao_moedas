@@ -170,10 +170,6 @@ class _HomeState extends State<Home> {
                             shape: new RoundedRectangleBorder(borderRadius: new BorderRadius.circular(30.0))
                           ),
                           Divider(),
-                          floatingActionButton: FloatingActionButton(
-                            child: Icon(Icons.add),
-                            onPressed: () {},
-                          )
                           //
                         ],
                       ),
